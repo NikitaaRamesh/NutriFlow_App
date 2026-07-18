@@ -1,0 +1,6 @@
+{
+  "name": "AI Meal Planner & Grocery Orchestrator",
+  "description": "Hyper-personalized daily meal planner and weekly grocery list orchestrator powered by Gemini, featuring real-time activity calibration and e-commerce plugin formatting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
